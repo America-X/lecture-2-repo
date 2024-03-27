@@ -13,3 +13,5 @@ What are the steps after making any change to your first repo?
 3. we then check git status again to make sure we updated it
 4. after we do (git commit -m "message") 
 Finally we (git push) so it will show in github. 
+
+this content is hard but we got this 
